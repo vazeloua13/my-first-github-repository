@@ -1,4 +1,5 @@
 # my-first-github-repository
+
 This is my first GitHub repository
 
-README.md file was just modified. This file was modified locally.
+Resolved conflict with neither of 2 changes(remote or local)
