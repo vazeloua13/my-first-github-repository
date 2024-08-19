@@ -4,3 +4,5 @@ The file is modified locally
 
 
 This line was added in local feature-2 branch
+
+Another modification in local feature-2 branch
